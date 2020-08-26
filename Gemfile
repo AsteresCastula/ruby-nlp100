@@ -15,5 +15,6 @@ group :test do
   gem 'rake',                     '~> 13.0.1'
   gem 'rspec',                    '~> 3.9.0'
   gem 'rubocop',                  '~> 0.89.0'
+  gem 'rubocop-rspec',            '~> 1.43.2'
   gem 'terminal-notifier-guard',  '~> 1.7.0'
 end
